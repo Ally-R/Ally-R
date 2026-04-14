@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ally-R
+
 <!---
 ⚙️ I'm a software developer
 
